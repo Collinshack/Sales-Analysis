@@ -6,9 +6,9 @@ The dataset used in this project includes sales data from the year 2019, includi
 The questions answered in this analysis include:
 - What is the best month for sales? How much was earned?
 - What city made the highest purchase?
-- What time should we display advertisements to maximize likelihood of customer's buying product?
+- What time should we display ads to maximize likelihood of customer's buying product?
 - What products are most often sold together?
-- What product sold the most? Why do you think so?
+- What product sold the most?
 
 The project provides visualizations of the data in the form of bar charts to help with understanding and interpretation of the results.
 
